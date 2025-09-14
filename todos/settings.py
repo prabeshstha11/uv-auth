@@ -52,7 +52,7 @@ INSTALLED_APPS = [
 
     "drf_spectacular",
 
-    "todo"
+    "todo",
     "corsheaders",
 ]
 
