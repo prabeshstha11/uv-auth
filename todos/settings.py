@@ -50,7 +50,9 @@ INSTALLED_APPS = [
     "allauth.socialaccount",
     "dj_rest_auth.registration",
 
-    "drf_spectacular"
+    "drf_spectacular",
+
+    "todo"
 ]
 
 SITE_ID = 1
