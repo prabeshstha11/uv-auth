@@ -52,11 +52,8 @@ INSTALLED_APPS = [
 
     "drf_spectacular",
 
-<<<<<<< HEAD
-    "corsheaders"
-=======
     "todo"
->>>>>>> cb94c0fe79ea46a3ed8bf0f06934b7b85f6cfb4a
+    "corsheaders",
 ]
 
 SITE_ID = 1
